@@ -71,8 +71,8 @@ Optimized pricing and discount policies
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Anshagrwl/Super-Store-Sales-Dashboard
+cd Super-Store-Sales-Dashboard
 
 
 Create a virtual environment (recommended):
